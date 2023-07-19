@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Yoast\WP\SEO\Services\Health_Check\Reports_Trait&quot; not found in <b>C:\Xampp\htdocs\vitrine\wp-content\plugins\wordpress-seo\src\deprecated\src\services\health-check\ryte-reports.php</b> on line <b>13</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;GuzzleHttp\Psr7\StreamDecoratorTrait&quot; not found in <b>C:\Xampp\htdocs\vitrine\wp-content\plugins\updraftplus\vendor\guzzlehttp\psr7\src\MultipartStream.php</b> on line <b>13</b><br>

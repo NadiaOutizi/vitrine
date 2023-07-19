@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirection...</title>
+		<meta http-equiv="refresh" content="0;url=/https://nadiaoutizi.github.io/vitrine/wp-content/plugins/ocean-extra/includes/metabox/controls/image/%7B%7B%20data.src">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/https://nadiaoutizi.github.io/vitrine/wp-content/plugins/ocean-extra/includes/metabox/controls/image/%7B%7B%20data.src";
+		</script>
+
+		<p>You are being redirected to <a href="/https://nadiaoutizi.github.io/vitrine/wp-content/plugins/ocean-extra/includes/metabox/controls/image/%7B%7B%20data.src">/https://nadiaoutizi.github.io/vitrine/wp-content/plugins/ocean-extra/includes/metabox/controls/image/%7B%7B%20data.src</a></p>
+	</body>
+</html>

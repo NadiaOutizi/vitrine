@@ -1,0 +1,3 @@
+<div class="logo-container" style="padding: 50px 0px 10px 20px">
+			<a href="http://blogvault.net/" style="padding-right: 20px;"><img src="/https://nadiaoutizi.github.io/vitrine/wp-content/plugins/bv-pantheon-migration/admin/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in C:\Xampp\htdocs\vitrine\wp-content\plugins\bv-pantheon-migration\admin\main_page.php:8_Stack trace:_#0 {main}_  thrown in <b>C:\Xampp\htdocs\vitrine\wp-content\plugins\bv-pantheon-migration\admin\main_page.php</b> on line <b>8</b><br />"></a>
+</div>
